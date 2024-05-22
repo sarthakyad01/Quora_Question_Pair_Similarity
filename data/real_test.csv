@@ -1,0 +1,46 @@
+id,qid1,qid2,question1,question2,is_duplicate
+1,1,1,Does higher education level mean higher income?,Does higher income level mean higher education level?,0
+2,1,1,How many Indians live in the GTA?,Are Indians the largest minority in the GTA? ,0
+3,1,1,Will AI replace humans?,Will humans be taken over by AI?,1
+4,1,1,Was U.S. the first country to legalize the gun?,Was the gun first legalized by the United States of America?,1
+5,2,2,Is Pacific Ocean the largest of the world ocean basins,Is Pacific Ocean the deepest of the world ocean basins,0
+6,2,2,What is the population of India,Is India the contry with the most population on earth?,0
+7,2,2,Are we going to clear this course?,Is this course going to screw us over?,1
+8,2,2,Will I finish these assignments before deadline?,When can I finish all of these assignements,1
+7,3,3,Is canadian economy going down the drain?,Has Canada been the most impacted country by recession?,0
+8,3,3,Does having a masters degree show you're intelligent?,What is the impact of a master's degree in your life?,0
+9,3,3,Can a student rely on the QS ratings while selecting a college?,Do student prefer multiple sites and select wrong colleges?,0
+10,3,3,what came first an egg or a chicken?,what will you order an omellete or chicken sub?,0
+11,4,4,Are children scared of dark and prefer not to see under the bed?,Is fear a common issue among children?,0
+12,4,4,What is the impact of global warming?,Why didn't it snow lower compared to other years in Toronto?,0
+13,4,4,What is the salary range after MMA? ,Why did you choose Canada over US for your Masters? ,0
+14,4,4,Why should people take ashwagandha?,What're the benefits of taking ashwagandha?,1
+15,5,5,Is life meant to be difficult,Why is life so difficult,1
+16,5,5,Are there students in University of Toronto from Brampton,Is Brampton a popular destination for students,0
+17,5,5,Does childhood trauma reflect in your current habits?,why does an adult get scared after seeing people when he is alone?,0
+18,5,5,Why I need to sleep for over 8 hours every day?,Why do I sleep for a long time and still feel tired?,0
+19,6,6,,,
+20,7,7,Is Donald Trump going to return as US President ,Will Donald Trump win the next elections,1
+21,8,8,Is Justin Trudeau and Justin Ashford the same guy?,Will we ever get to see Lauda and Lasan?,0
+22,9,9,Why do people need to go to college?,Why do people apply to MMA?,0
+23,10,10,Does cursing relieve stress?,Why do people curse a lot?,0
+24,11,11,How to tell a person is smart,Are there characteristics that help define someone as smart,1
+25,12,12,What are effective methods to enhance sleep quality,How can I sleep better?,1
+26,13,13,How can I maintain a healthy diet?,Will eating healthy foods make me lose weight?,0
+27,14,14,Will Luffy ever find the One Piece?,How does the One Piece end?,0
+28,15,15,How did Phil Dunphy's character develop in Modern Family?,Describe the character attributes of Phil Dunphy in Modern Family,1
+29,16,16,Does owning a dog help reduce anxiety and depression?,How do dogs reduce stress-levels in their owners?,0
+30,17,17,How does Zoro's behaviour throughout the One Piece deem him as a likable character?,What qualities of Zoro make him one of the most liked characters in One Piece?,1
+31,18,18,Could you explain this concept to me?,Could you provide an example to illustrate this concept?,0
+32,19,19,Which one is more important? Freedom or Justice,Which one is stronger? Strike Freedom or Infinite Justice,0
+33,20,20,Is kpop popular in Canada?,Will Kpop get popular in Canada?,1
+34,21,21,Can Tiffany pass the program?,Will Tiffany fail the program?,1
+35,22,22,how many years have you lived in this world?,how old are you?,1
+36,23,23,Is learning a new language hard?,What challenge will I face while learning a new language,0
+37,24,24,Why do you run away from problems in life?,Why is life so dark?,0
+38,25,25,Do you like soccer game?,Do you like football game?,1
+39,26,26,Will we get a job after MMA ?,Is it tough to get a job in Canada ?,0
+40,27,27,Is the practicum useful?,Does the practicum provide any value?,1
+41,28,28,Does Ontario Health help in building skills for the practicum?,How does teammate impact help team coherence during practicum?,0
+42,29,29,Which country is better to live? United States or Canada,Is Canada better than US?,0
+43,30,30,Is this an appropriate question?,Is Sarthak small an appropriate question?,0
